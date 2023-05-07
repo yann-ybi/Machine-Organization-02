@@ -1,0 +1,19 @@
+As computer scientists, organization is extremely important. So the programming technique would litteraly  be organization!
+Oganization implies anticipation: 
+	it can be achieved by just doing things as early as possible and planed on finishing it as early as possible. The more I am ahead the more I can anticipate. Which allows to dodge the unexpected, avoid collisions, stress and also gives some extra time to review what was done, worked on it a little more and improve it if needed. The experience and skills gained from doing that work are much deeper.
+
+Organization implies breaking down things 
+	it helps for our own understanding 
+	our own understanding helps us instruct a computer
+	our computer can only execute broken downed instructions
+
+That being we should start by (re)organizing the instructions given for a program assignment on a paper
+We can then use it to represent what we want to do with schemes: an organizationall patter or structure.
+We can work on that representation to confirm and retrace what we want to accomplish, how we can instruct the computer and which programming tools we could use.
+
+From that we can make a clear and organized design.
+With that design we can break down the instructions even more. Close to the programming language we are going to use, ready to be translated into a clear and organized code that will instruct the computer on how to perfom the given intructions.
+Organization is important all along.
+Self reogranization of given instructions makes it easier for us to break down into a psudeocode while allowing for a better understanding at the same time! Which is essential for a design. 
+And a psudeocode ready to be turned into an organized code.
+That organized code can more easily be debugged and each of the self made organized instructions can be tested progressively by compiling and testing the code.
